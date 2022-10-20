@@ -1,0 +1,33 @@
+.container {
+  background-color: whitesmoke;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.logo-size {
+  width: 20rem;
+  margin-bottom: 15px;
+  position: sticky;
+}
+
+input {
+  border: none;
+  background-color: white;
+  outline: none;
+}
+.search-logo {
+  width: 8%;
+}
+.input-container {
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 30%;
+}
+.search-alin {
+  display: flex;
+  align-items: center;
+}

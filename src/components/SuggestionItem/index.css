@@ -1,0 +1,11 @@
+li {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
+.arrow-size {
+  width: 2rem;
+}
